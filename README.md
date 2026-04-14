@@ -17,28 +17,29 @@ Un script de Bash potente y ligero para buscar y reproducir música de YouTube d
 
 Asegúrate de tener instaladas las siguientes herramientas:
 
-```bash
-sudo apt update
-sudo apt install mpv yt-dlp fzf
+	```bash
+	sudo apt update
+	sudo apt install mpv yt-dlp fzf
 
 Nota: Se recomienda mantener yt-dlp actualizado para evitar bloqueos de YouTube.
 🚀 Instalación
 
-   1 Clona este repositorio o descarga el script:
+1 Clona este repositorio o descarga el script:
     bash
 
     git clone https://github.com/Ramver66/YouMusic
     cd YouMusic
 
-    2 Dale permisos de ejecución:
+2 Dale permisos de ejecución:
 
-```bash
-chmod +x yt-play.sh
+	```bash
+	chmod +x yt-play.sh
 
-    3 (Opcional) Muévelo a tu bin para usarlo desde cualquier parte:
+3 (Opcional) Muévelo a tu bin para usarlo desde cualquier parte con tan solo escribir el comando "play":
 
-```bash
-sudo mv yt-play.sh /usr/local/bin/play
+	```bash
+	sudo mv YouPlay.sh /usr/local/bin/play
+	sudo chmod +x /usr/local/bin/play
 
 🎮 Controles durante la reproducción
 Tecla
@@ -53,8 +54,8 @@ q	Salir del reproductor
 📖 Uso
 Simplemente ejecuta el comando seguido del nombre del artista o canción:
 
-```bash
-play "Melendi"
+	```bash
+	play "Melendi"
 
 Usa la tecla TAB para marcar varias canciones en el menú y ENTER para empezar a escucharlas.
 
