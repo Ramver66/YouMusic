@@ -1,0 +1,14 @@
+# Archivos temporales del sistema
+/tmp/*
+*.tmp
+
+# Archivos de cookies (¡Importante por privacidad!)
+cookies.txt
+*.cookie
+
+# Logs de error de MPV o YT-DLP
+*.log
+
+# Si moviste el script a un binario local, ignora copias de respaldo
+*~
+.DS_Store
