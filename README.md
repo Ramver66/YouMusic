@@ -1,4 +1,4 @@
-# YouMusic
+   # YouMusic
 Reproductor de YouTube minimalista para la terminal de Linux. Busca, crea playlists dinámicas con FZF y reproduce solo audio mediante MPV con controles personalizados.
 
 # 🎵 YT-Terminal Player
@@ -59,4 +59,5 @@ Usa la tecla TAB para marcar varias canciones en el menú y ENTER para empezar a
 
 ⚙️ Configuración de Cookies
 Si YouTube bloquea la conexión, el script está configurado para leer las cookies de Firefox. Puedes cambiar el navegador en la variable BROWSER dentro del script (ej. chrome, brave, chromium).
+                               
 Creado con ❤️ para amantes de la terminal.
