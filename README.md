@@ -61,3 +61,7 @@ Usa la tecla TAB para marcar varias canciones en el menú y ENTER para empezar a
 Si YouTube bloquea la conexión, el script está configurado para leer las cookies de Firefox. Puedes cambiar el navegador en la variable BROWSER dentro del script (ej. chrome, brave, chromium).
                                
 Creado con ❤️ para amantes de la terminal.
+
+## ⚖️ Licencia
+
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE)
